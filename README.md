@@ -1,7 +1,7 @@
 ![What-is-VPN-image](https://github.com/erik-salgado/VPN-Setup/assets/173113320/06702375-9484-42cc-8e14-c5cee28e88be)
 
 # VPN Setup
-In this tutorial, we're going to set up VPN within our Virtual Machine and see how Remote Desktop Protocol Works.
+In this tutorial, we're going to set up VPN from within our Virtual Machine and see how Remote Desktop Protocol Works.
 
 # Resources needed for this Lab:
 - Resource Group (Microsoft Azure)
